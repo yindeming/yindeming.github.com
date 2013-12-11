@@ -2,7 +2,7 @@ var SLIDE_CONFIG = {
   // Slide settings
   settings: {
     title: 'Clean File Harvest',
-    subtitle: 'bit.ly/cfhar',
+    subtitle: '',
     //eventInfo: {
     //  title: 'Google I/O',
     //  date: '6/x/2013'
@@ -23,7 +23,7 @@ var SLIDE_CONFIG = {
   // Author information
   presenters: [{
     name: 'Deming Yin',
-    company: 'Supervised by:<br>Lasse Øverlier and Trygve Brox (Norman)',
+    company: 'Supervised by:<br>Lasse Øverlier and Trygve Brox (Norman)<br><br>bit.ly/cfhar',
     gplus: 'http://plus.google.com/1234567890',
     twitter: '@yourhandle',
     www: 'http://www.you.com',
