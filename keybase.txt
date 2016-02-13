@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/deming
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://yin.deming.im
+  * I am deming (https://keybase.io/deming) on keybase.
+  * I have a public key with fingerprint AC68 6E9F 7324 83B7 42E2  6970 6B25 601B 9389 ABE5
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101694c430fc3c9137b5c6d8c6f38031a9827dc67d18d54d3553fb62e240333da3c0a",
+            "fingerprint": "ac686e9f732483b742e269706b25601b9389abe5",
+            "host": "keybase.io",
+            "key_id": "6b25601b9389abe5",
+            "kid": "0101694c430fc3c9137b5c6d8c6f38031a9827dc67d18d54d3553fb62e240333da3c0a",
+            "uid": "976259dd6584b82f7a953867a2b95100",
+            "username": "deming"
+        },
+        "service": {
+            "hostname": "yin.deming.im",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1455393134,
+    "expire_in": 157680000,
+    "prev": "b5ec9fced136e7ea5333d222ae04d76f3ead4a5a8088fbb8b3cc69c02b05f2e7",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.51
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJbbAxRGN6texOXBykRIp0SwqY9M2fmzMziiUSjEkFVK5XNnMvsjtqZ
+7e50qRKsVituD6QuSemD6EMlbk00VbeWp1JFqETQLB6EtNIS4lLOFG8enZeT8//f
+953v+/PfnjjKl+n3hx+Ej02Olvi7btVX+Ipu7LOrBOzQSiFYJZSxkYttpizhhsos
+KgQFIAIR6TKRITAJJLoIVawQRDWCTKgBKBq6JqmUIJWKGlVkChUFmhhJTJIBhJAa
+kABDCAimZYdZPBa3bJfLGgRpiOmmCiVZg1iVOR7pKkBYUhAQsQ413cBM4cSIk/AY
+3Bw2EizXcniNP0Ij9v6B/8++K0bkdBVJik4pUjQZa5KpGroCNaQaEtYVEQAPmGBx
+24gyjqYsytMKOwICryUtwryxejn+9CstO/c3JteKcmos7rgOcTbzVsR1Y4mgR3Ur
+Yx52C8OhPyohbNnUEw4ISRZPWI4tBEWOJK7lyYoyj6BDEcoBgW2NWXEWsjyEoiIN
+8OP9w5JcEiuM6CZhVISIqcxQvLySJBkMyFTl82EGlQ3F0ICmmRhrGBKCdAIkDBRT
+Yqrg5Sq3HSEIuU0jzCUTVtg23Io4E3Z03Cwd7fNn+saOyfDWy5c5YcrfpXNWjfu5
+tPXryafNp5XPLQs6kndepK68Xbu6wDxfkNpZMFycN+1RH7n8FbWzqvd7XmVH0xWH
+UrWLs1oK+5a3zBmsX7xkzcr3Oe0zuknt9bnReY29WfMHip4O1LVd71Nr4l0fZu4t
+WLP1woEN24++zD+3DGe8W5F+fD8jtu5a6nvPrudtTXNa91enwDfp0xHaNLe2P5qV
+/ebUMFlR8nb3iUtt6UjjwEJr1WB5W3X5kyxct6l+Sd42t7Ped0+LpP1DG281FB2Z
+OliW3/gwms5Zn3xx/KBbePewXz35+qw5vXN85Mzsq/0XX/1YPRQZCi3q/VjTnJ71
+7NS+0oYvQvuk/pkHu3tOFGeDbT9/AYfESGs=
+=Jiyt
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/deming
+
+==================================================================
